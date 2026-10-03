@@ -103,7 +103,8 @@ O uso é permitido como apoio, desde que declarado em [`DECLARACAO-DE-USO-DE-IA.
 
 ## Equipe
 
-| Nome | Matrícula | GitHub |
-|---|---|---|
-| | | |
-| | | |
+| Nome                             | Matrícula   | GitHub               |
+|----------------------------------|-------------|----------------------|
+| Antônio Gabriel da Silva Moreno  | 20240101856 | AntonioGabrielMoreno |
+| Maria Eduarda das Chagas Barbosa | 20240102110 | mariachagaas         |
+| Jose Vitor Almeida da Silva      | 20240010063 | josealmeida-create   |
