@@ -91,7 +91,7 @@ Sua equipe escolhe um acervo próprio: jogos, filmes, quadrinhos, instrumentos, 
 
 ### Nossa extensão
 
-> Substitua esta seção: qual acervo, qual regra de negócio própria, o que ela muda no comportamento do sistema.
+> Substitua esta seção: O acervo da nossa equipe será um acervo de >FILMES<, a nossa regra é sobre o aluguel de filmes com data limite para devolução, estendendo pelos fins de semana, mas aplicando uma taxa de X valor.
 
 ---
 
