@@ -10,7 +10,7 @@ import br.ufpb.dcx.poo.biblioteca.contrato.excecoes.*;
 import br.ufpb.dcx.poo.biblioteca.inicial.Exemplar;
 import br.ufpb.dcx.poo.biblioteca.inicial.Filme;
 
-public class AcervoServiceImpl implements AcervoService {
+class AcervoServiceImpl implements AcervoService {
 
     private final Map<String, Filme> filmes = new LinkedHashMap<>();
 

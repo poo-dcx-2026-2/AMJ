@@ -30,9 +30,9 @@ public class Filme {
 
     public List<Exemplar> getExemplares() { return List.copyOf(exemplares); }
 
-    void adicionarExemplar(Exemplar e) { exemplares.add(e); }
+    public void adicionarExemplar(Exemplar e) { exemplares.add(e); }
 
-    int exemplaresDisponiveis() {
+    public int exemplaresDisponiveis() {
         int n = 0;
         for (Exemplar e : exemplares) {
             if (e.getStatus() == StatusExemplar.DISPONIVEL) n++;
@@ -40,5 +40,5 @@ public class Filme {
         return n;
     }
 
-    int totalDeExemplares() { return exemplares.size(); }
+    public int totalDeExemplares() { return exemplares.size(); }
 }
